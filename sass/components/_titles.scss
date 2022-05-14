@@ -1,0 +1,34 @@
+.title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: var(--title-color);
+}
+
+.title-works {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.title-team {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.title-client {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+ .footer-social__title,
+ .footer-form__title {
+     font-weight: 700;
+     font-size: 14px;
+     line-height: 1.14;
+     letter-spacing: 0.03em;
+     text-transform: uppercase;
+     color: var(--secondary-color);
+     margin-bottom: 20px;
+
+ }

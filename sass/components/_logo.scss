@@ -1,0 +1,26 @@
+.logo {
+    font-family: Raleway, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+
+}
+
+.logo__text {
+    color: var(--blue-text-color);
+}
+
+.logo__header {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-right: 93px;
+    color: var(--title-color);
+}
+
+.logo__footer{
+    display: block;
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+}
